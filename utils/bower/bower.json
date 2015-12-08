@@ -1,0 +1,36 @@
+{
+  "name": "WEVO",
+  "version": "0.0.1",
+  "description": "Core of frontend framework",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-datepicker": "~1.4.0",
+    "es5-shim": "~4.1.1",
+    "fontawesome": "~4.3.0",
+    "html5shiv": "~3.7.2",
+    "imagesloaded": "~3.1.8",
+    "jquery": "1.11.2",
+    "jquery-placeholder": "~2.1.1",
+    "jquery.ui": "~1.11.4",
+    "react": "0.12.2",
+    "respond": "~1.4.2",
+    "wookmark": "wookmark-jquery#~2.0.1",
+    "bootstrap-tagsinput": "~0.5.0"
+  },
+  "devDependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-datepicker": "~1.4.0",
+    "es5-shim": "~4.1.1",
+    "fontawesome": "~4.3.0",
+    "html5shiv": "~3.7.2",
+    "imagesloaded": "~3.1.8",
+    "jquery": "1.11.2",
+    "jquery-placeholder": "~2.1.1",
+    "jquery.ui": "~1.11.4",
+    "react": "0.12.2",
+    "respond": "~1.4.2",
+    "wookmark": "wookmark-jquery#~2.0.1",
+    "bootstrap-tagsinput": "~0.5.0"
+  }
+}

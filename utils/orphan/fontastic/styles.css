@@ -1,0 +1,85 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "fontastic";
+  src:url("fonts/fontastic.eot");
+  src:url("fonts/fontastic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/fontastic.woff") format("woff"),
+    url("fonts/fontastic.ttf") format("truetype"),
+    url("fonts/fontastic.svg#fontastic") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "fontastic" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="ft-"]:before,
+[class*=" ft-"]:before {
+  font-family: "fontastic" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ft-download:before {
+  content: "\e000";
+}
+.ft-expand-o:before {
+  content: "\e001";
+}
+.ft-file-web-o:before {
+  content: "\e002";
+}
+.ft-mail:before {
+  content: "\e003";
+}
+.ft-print:before {
+  content: "\e004";
+}
+.ft-logo-wise-intelligence:before {
+  content: "\e005";
+}
+.ft-logo-wise-portal:before {
+  content: "\e006";
+}
+.ft-logo-wise-sns:before {
+  content: "\e007";
+}
+.ft-cards:before {
+  content: "\e008";
+}
+.ft-reset:before {
+  content: "\e009";
+}
+.ft-grid:before {
+  content: "\e00a";
+}
+.ft-pen-marker:before {
+  content: "\e00b";
+}
+.ft-times:before {
+  content: "\e00c";
+}
+.ft-circle-thinnest:before {
+  content: "\e00d";
+}
+.ft-plus:before {
+  content: "\e00e";
+}
